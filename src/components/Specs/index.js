@@ -87,9 +87,16 @@ import { colors } from '../../style';
             pathColor:'#B5EAEA'
         },
         {
+            skillName: "Bootstrap",
+            desc:'experienced on Bootstrap 4, 5',
+            value: '80',
+            textColor: colors.primaryColor,
+            pathColor:'#66DE93'
+        },
+        {
             skillName: "NodeJS",
             desc:'Hands On experience on Node',
-            value: '80',
+            value: '90',
             textColor: colors.primaryColor,
             pathColor:'#66DE93'
         },
